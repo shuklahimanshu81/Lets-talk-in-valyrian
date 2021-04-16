@@ -1,0 +1,55 @@
+@import url{href="https://fonts.googleapis.com/css2?family=Miniver&display=swap"}
+
+body{
+    font-family: 'Miniver',
+     cursive;
+}
+#txt-input{
+   width: 80%;
+   height: 15vh;
+   display: block;
+   margin: 1rem;
+   padding: 1rem;
+}
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 70%;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.nav{
+    
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 2rem;
+    background-color: aquamarine;
+    
+}
+    
+.footer{
+    text-align: center;
+    box-sizing: border-box;
+    background-color: aquamarine;
+    padding: 2rem;
+}
+#txt-input{
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    
+}
+
+#btn-translator{
+    background-color: azure;
+    margin-left: 2.6rem;
+}
+
+main{
+    margin: auto;
+    padding: 1rem;
+    max-width: 600px ;
+}
