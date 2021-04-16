@@ -1,8 +1,9 @@
-@import url{href="https://fonts.googleapis.com/css2?family=Miniver&display=swap"}
+@import url{"https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"}
+
 
 body{
-    font-family: 'Miniver',
-     cursive;
+    font-family: 'Montserrat', 
+    sans-serif;
 }
 #txt-input{
    width: 80%;
@@ -25,14 +26,14 @@ body{
     font-weight: bold;
     text-align: center;
     padding: 2rem;
-    background-color: aquamarine;
+    background-color: #F87171;
     
 }
     
 .footer{
     text-align: center;
     box-sizing: border-box;
-    background-color: aquamarine;
+    background-color: #F87171;
     padding: 2rem;
 }
 #txt-input{
